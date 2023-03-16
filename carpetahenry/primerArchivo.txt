@@ -1,0 +1,4 @@
+Ejercicio 1: 
+Crear repositorio en github.
+Clonar repositorio en git bash, crear carpetahenry y primerarchivo.txt
+Guardar commit en github.
